@@ -91,12 +91,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🎥 Demo Video
 
-Here’s a demo video showcasing Math Gesture Solver in action:
+[![Watch the demo](https://img.youtube.com/vi/lFRdm6IchgQ/0.jpg)](https://www.youtube.com/watch?v=lFRdm6IchgQ)
 
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
