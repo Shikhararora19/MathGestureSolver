@@ -2,6 +2,13 @@
 
 **Math Gesture Solver** is an interactive web application powered by **Streamlit** and **OpenAI** that recognizes hand gestures and solves math problems drawn in the air. By combining **computer vision** and **AI**, this project allows users to interact with math problems in a completely new way! 🙌
 
+
+---
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/lFRdm6IchgQ/0.jpg)](https://www.youtube.com/watch?v=lFRdm6IchgQ)
+
 ---
 
 ## 🚀 Features
@@ -84,14 +91,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Streamlit** for making interactive apps simple.
 - **OpenCV** and **CVZone** for robust computer vision tools.
 - **OpenAI** for their powerful GPT model.
-
----
-
----
-
-## 🎥 Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/lFRdm6IchgQ/0.jpg)](https://www.youtube.com/watch?v=lFRdm6IchgQ)
 
 
 ---
