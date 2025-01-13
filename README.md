@@ -2,6 +2,14 @@
 
 **Math Gesture Solver** is an interactive web application powered by **Streamlit** and **OpenAI** that recognizes hand gestures and solves math problems drawn in the air. By combining **computer vision** and **AI**, this project allows users to interact with math problems in a completely new way! 🙌
 
+![Python](https://img.shields.io/badge/Language-Python-brightgreen?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-lightgrey?style=for-the-badge)
+![CVZone](https://img.shields.io/badge/Helper%20Library-CVZone-green?style=for-the-badge)
+![streamlit-webrtc](https://img.shields.io/badge/WebRTC-streamlit--webrtc-orange?style=for-the-badge)
+
+
 
 ---
 
@@ -24,13 +32,13 @@
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-- **Streamlit**: Interactive web framework.
-- **streamlit-webrtc**: For browser-based webcam functionality.
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-red?style=for-the-badge)
+![streamlit-webrtc](https://img.shields.io/badge/WebRTC-streamlit--webrtc-orange?style=for-the-badge)
 
 ### **Backend**
-- **OpenCV**: For video processing and hand gesture tracking.
-- **CVZone**: Simplifies hand detection and drawing.
-- **OpenAI API**: GPT model for solving math problems.
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge)
+![CVZone](https://img.shields.io/badge/CVZone-Helper%20Library-green?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT%20API-lightgrey?style=for-the-badge)
 
 ---
 
